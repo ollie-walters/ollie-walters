@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Game boy in C<br>I'm looking to collaborate on programming projects based on blockchain and looking to learn<br>I’m interested in ... Robotics, Automation, Data Science, AI, ML, DeveOps<br>I’m currently learning Robotics and Automation Engineer, Data structures and algorithms
+Currently coding a Game Boy in C. Open to collaboration on blockchain projects. Passionate about Robotics, Automation, Data Science, AI, ML, and DevOps<br>. Learning Robotics and Automation Engineering, along with diving into data structures and algorithms. Fun Fact: I play three sports, including Field Hockey for Leeds Beckett Men's 1s.
 
 
 ## 🌐 Socials:
